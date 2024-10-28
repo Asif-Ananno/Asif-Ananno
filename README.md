@@ -1,6 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Md. Asif Rahman</h1>
 <h3 align="center">I am a CSE graduate from BRAC University.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw08n70yhlF44O7zL6gL0Jo7&ust=1730224631705000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCv-bPTsYkDFQAAAAAdAAAAABAb">
+<img align="right" alt="coding" width="300" src="https://github.com/Asif-Ananno/Asif-Ananno/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-ananno&label=Profile%20views&color=0e75b6&style=flat" alt="asif-ananno" /> </p>
 
